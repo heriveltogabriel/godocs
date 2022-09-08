@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-godocs-app
+  labels:
+    app: godocs
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: godocs
+  template:
+    metadata:
+      labels:
+        app: godocs
+    spec:
+      containers:
+      - name: godocs
+        image:  heriveltogabriel/godocs:1.0
+        ports:
+        - containerPort: 80
