@@ -1,0 +1,23 @@
+[33mcommit 5ea52e39157f3dd26b1a9efb04e450a3ee2a6dd2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: heriveltogabriel <heriveltogabriel@gmail.com>
+Date:   Mon Sep 5 23:30:52 2022 -0300
+
+    Versão 2.0
+
+[33mcommit b948a092332ef327bb2409eb878d02ab1ee70a82[m
+Author: heriveltogabriel <heriveltogabriel@gmail.com>
+Date:   Mon Sep 5 23:27:23 2022 -0300
+
+    Versão 2.0
+
+[33mcommit d08e45e8b591e020c4c93b6a68a49096173d85df[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Herivelto Gabriel <heriveltogabriel@gmail.com>
+Date:   Mon Sep 5 23:02:05 2022 -0300
+
+    Create Dockerfile
+
+[33mcommit 9f01467ca8cb03de813c393fd9750227f54a2772[m
+Author: Herivelto Gabriel <heriveltogabriel@gmail.com>
+Date:   Mon Sep 5 22:45:53 2022 -0300
+
+    Initial commit
